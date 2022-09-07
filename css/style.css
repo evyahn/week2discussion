@@ -1,0 +1,15 @@
+body {
+    font-family: "Times New Roman", Georgia, Courier;
+    line-height: 2;
+    color: #520071;
+    background-color: rgb(246, 246, 255);
+    font-size: 20px;
+}
+
+img {
+    border: solid 2px #520071;
+}
+
+li { 
+    border: dotted 4px palevioletred;
+}
